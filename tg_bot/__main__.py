@@ -33,10 +33,10 @@ PM_START_TEXT = """
 Hello {}, MY NAME IS {} !
 
 I AM A FUNNIEST BUT STRICT GROUP MANAGER BOT
-I am Open Source and my Code can be Found [here](github.com/KshitijGagan/GroupBotV2)
+I am Open Source and my Code can be Found [here](github.com/balasarathi/flowerbotorvicky)
 
 To Donate us Hit /donate
-You can get Support Here [Support Group](t.me/BotSupportGroup)
+You can get Support Here [Support Group](t.me/vickyorflowerbotsupport)
 
 Click /help or Help button below to find out more about, how to use me to my full potential.
 
@@ -46,7 +46,7 @@ Click /help or Help button below to find out more about, how to use me to my ful
 HELP_STRINGS = """
 
 Hello! my name *{}*.
-
+IAM modular telegram group manager bot 
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
